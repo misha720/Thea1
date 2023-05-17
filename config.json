@@ -1,0 +1,21 @@
+{
+	"name":[
+		"тея",
+		"теечка"
+	],
+	"emotions":{
+		"angry":0.1,
+		"sadness":0.1,
+		"happy":0.97,
+		"fear":0.1
+	},
+	"lang":"ru",
+	"sensors":{
+		"view":"none",
+		"voice":"none",
+		"speech":"none"
+	},
+	"skills":{
+		"word-to-word":"skills/word-to-word"
+	}
+}
