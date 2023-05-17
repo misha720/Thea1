@@ -19,7 +19,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, ReplyKeyboardRemove, Key
 class Main:
 	def __init__(self):
 		
-		self.token = "6127599521:AAGkLZPwxntz5ct-OaifIlGpTi7Mlz4PIbY"
+		self.token = "TOKEN"
 		self.bot = Bot(token=self.token)
 		self.dp = Dispatcher(self.bot)
 
